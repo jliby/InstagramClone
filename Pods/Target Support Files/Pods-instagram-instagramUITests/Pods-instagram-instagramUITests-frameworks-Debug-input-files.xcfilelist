@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-instagram-instagramUITests/Pods-instagram-instagramUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Bolts/Bolts.framework
+${BUILT_PRODUCTS_DIR}/MessageInputBar/MessageInputBar.framework
+${BUILT_PRODUCTS_DIR}/Parse/Parse.framework
